@@ -14,4 +14,4 @@ This App Also uses ROOM library to send data to the local SQLite Local Database.
 4. Volley
 5. Adapters
 
-[![plants website](/preview.png)
+![plants website](/preview.png)
